@@ -21,6 +21,9 @@ namespace Test256
         {
             //První změna
             MessageBox.Show("Sdělení 1");
+            //Druhá změna
+            MessageBox.Show("Sdělení 1");
+
         }
     }
 }
