@@ -25,6 +25,8 @@ namespace Test256
             MessageBox.Show("Sdělení 1");
             //Třetí změna
             MessageBox.Show("Sdělení 3");
+            //Změna od KOA
+            MessageBox.Show("Zkontrolovano");
 
         }
     }
